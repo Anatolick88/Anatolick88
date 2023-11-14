@@ -1,16 +1,15 @@
-### Hi there 👋
+##  Hi there, I am Anatoliy  🖖
 
-<!--
-**Anatolick88/Anatolick88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA from Moscow
 
-Here are some ideas to get you started:
+ ###  About me
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduated from SkillFactory school with a degree in QAP
+- ✏️ Now I'm working on an online shop
+- 📚 Now I continue to study Python
+- 📫 Contact me at:
+    - ✉️ email: tolick.shevcov@gmail.com
+
+
+ 
