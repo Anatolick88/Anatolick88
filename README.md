@@ -10,6 +10,7 @@
 - 📚 Now I continue to study Python
 - 📫 Contact me at:
     - ✉️ email: tolick.shevcov@gmail.com
+    - Telegram: [hot_sneg](https://t.me/tolick88)
 
 
  
