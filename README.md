@@ -1,5 +1,4 @@
 ##  Hi there, I am Anatoliy  🖖
-
 ### QA from Moscow
 
  ###  About me
