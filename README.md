@@ -1,7 +1,7 @@
 ##  Hi there, I am Anatoliy!
 ### QA from Moscow
 
- ###  About me
+ ####  About me
  
 
 - 🎓 Graduated from SkillFactory school with a degree in QAP
