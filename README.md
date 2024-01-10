@@ -10,6 +10,3 @@
 - 📫 Contact me at:
      - ✉️ email: tolick.shevcov@gmail.com
      - Telegram: [tolick88](https://t.me/tolick88)
-
-
- 
